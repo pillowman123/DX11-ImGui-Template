@@ -15,6 +15,8 @@ Everything is setup simple to use, you don't really need to touch a lot.
 - Console Setup - (Can be easily removed)
 - Example menus
 
+- MORE IS BEING ADDED SOON!
+
 # Libraries Added
 - ImGui (Win32 & DX11 backends)
 - Kiero (Used to hook present for rendering)
