@@ -20,7 +20,7 @@ Everything is setup simple to use, you don't really need to touch a lot.
 - Kiero (Used to hook present for rendering)
 - MinHook (for inline hooking, for your game mods)
 
-#Credits
+# Credits
 - https://github.com/rdbo/ImGui-DirectX-11-Kiero-Hook (Base)
 - https://github.com/Rebzzel/kiero (Hook Library)
 - https://github.com/TsudaKageyu/minhook (Hook Library)
